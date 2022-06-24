@@ -1,3 +1,2 @@
-The weather is hot.
-It is the month of June.
-Sun is shining.
+
+Created with Tortoise.
