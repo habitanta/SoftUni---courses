@@ -1,4 +1,4 @@
 # SoftUni---courses
 
 Experimenting with updates.
-Creting conflicts.
+Creting conflicts yet again.
