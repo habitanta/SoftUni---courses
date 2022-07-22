@@ -163,6 +163,6 @@ cython_debug/
 #.idea/
 
 # Others
-.pptx
+*.pptx
 
 # End of https://www.toptal.com/developers/gitignore/api/python
